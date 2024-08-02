@@ -67,8 +67,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Building-Image.jpg" />
+    <Content Include="Code-Image.jpg" />
+    <Content Include="Computer-Image.jpg" />
+    <Content Include="Group-Image.jpg" />
+    <Content Include="Guitar-Image.jpg" />
+    <Content Include="IMG_3064-2.jpg" />
     <Content Include="index.html" />
     <Content Include="JavaScript.js" />
+    <Content Include="mountone.jpg" />
+    <Content Include="mountwo.jpg" />
+    <Content Include="Nature-Image.jpg" />
+    <Content Include="Show-Image.jpg" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -76,6 +86,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CV_Henco_Schutte.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
